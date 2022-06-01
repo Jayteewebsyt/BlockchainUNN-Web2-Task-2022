@@ -1,0 +1,91 @@
+   
+.div1 {
+background-color: rgb(241, 248, 241)
+}
+
+h1 {
+    text-align: center;
+    color: rgb(21, 107, 25)
+}
+.image1 {
+float: left;
+}
+
+h4 {
+    text-align: center;
+    color: rgb(21, 107, 25);
+    font-family: 'Brush Script MT',
+    cursive;
+    font-size: x-large;
+}
+
+.div3 {
+background-color: rgb(0, 102, 0);
+color: whitesmoke;
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 2px 2px;   
+    }
+    p.p {
+        text-align: center;
+    }
+
+    .div5 {
+        color:rgb(7, 104, 7);
+        background-color:rgb(185, 231, 207);
+    }
+    #head2 {
+        color:green;
+        text-shadow: 2px 2px white;
+        }
+p.p1 {
+    font-family: 'Brush Script MT',
+    cursive;
+    font-size: large;
+}
+        .div6 {
+       background-color: aliceblue;
+       color:rgb(7, 104, 7);
+       text-align: center;
+        }
+        h2, {
+        text-align: center; 
+        color: rgb(7,107,7); 
+        text-shadow: 2px 2px white;  
+        }
+#pdiv6 {
+    font-style: italic;
+}
+        .div6b {
+            background-color: rgb(7, 104,7);
+            color: white;
+            opacity: 0.8;
+        }
+ul.demo {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+        .div7 {
+            color:rgb(7, 104, 7);
+            text-align: justify;
+        }
+
+        .div8 { background-color:rgb(7, 104, 7);
+            opacity: 0.7;
+            color:white; 
+        }
+
+        .div9 {
+            color:rgb(7, 104, 7)
+        }
+
+        .div10 {
+            color:rgb(7, 104, 7)
+        }
+
+        a{
+            color:rgb(7, 104, 7)
+        }
